@@ -1,0 +1,42 @@
+[
+  {
+    "Repository": "yt-dlp/yt-dlp",
+    "Version": "2026.10.21",
+    "File": "yt-dlp.exe",
+    "Source": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.21/yt-dlp.exe",
+    "SHA256": "33121d192d706e62f684a06f80918e3f3a8ba52ac3a65213b6951c39c7d9f555",
+    "VerifiedAgainstPublisher": true
+  },
+  {
+    "Repository": "nicolaasjan/yt-dlp",
+    "Version": "2026.10.24.042403",
+    "File": "yt-dlp_x86_win7.exe",
+    "Source": "https://github.com/nicolaasjan/yt-dlp/releases/download/2026.10.24.042403/yt-dlp_x86_win7.exe",
+    "SHA256": "fd930832124c625d20bcc744182ff8129d88768672a02088c8e661e3fc49b782",
+    "VerifiedAgainstPublisher": true
+  },
+  {
+    "Repository": "denoland/deno",
+    "Version": "v2.9.8",
+    "File": "deno-x86_64-pc-windows-msvc.zip",
+    "Source": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.zip",
+    "SHA256": "cba84b26e0df5ae7f74fc66b86a95b866872a86292ebd84fa1e959927edd93bf",
+    "VerifiedAgainstPublisher": true
+  },
+  {
+    "Repository": "bellard.org/quickjs",
+    "Version": "2026-06-04",
+    "File": "quickjs-win-i686-2026-06-04.zip",
+    "Source": "https://bellard.org/quickjs/binary_releases/quickjs-win-i686-2026-06-04.zip",
+    "SHA256": "b582d28d9f02bd8dec24a425192fddeabf5a7207561c7af7792b2aec169ff874",
+    "VerifiedAgainstPublisher": false
+  },
+  {
+    "Repository": "sudo-nautilus/FFmpeg-Builds-Win32",
+    "Version": "latest",
+    "File": "ffmpeg-n6.0-latest-win32-gpl-shared-6.0.zip",
+    "Source": "https://github.com/sudo-nautilus/FFmpeg-Builds-Win32/releases/download/latest/ffmpeg-n6.0-latest-win32-gpl-shared-6.0.zip",
+    "SHA256": "c9317058494efed436195c531ef9fc25d7a922dd28410f7b2f2b64dbb835dd64",
+    "VerifiedAgainstPublisher": false
+  }
+]
